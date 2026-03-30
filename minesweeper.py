@@ -3,6 +3,7 @@
 # Controls: enter commands like "r 3 5" to reveal row 3 col 5, or "f 3 5" to toggle flag.
 # Rows and columns are 0-indexed in prompts (easy to change if you prefer 1-indexed).
 
+
 import random
 import sys
 from collections import deque
